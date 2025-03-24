@@ -36,6 +36,7 @@
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/nikhilpatel2004/DSA/tree/master/0134-gas-station) |
 | [0496-next-greater-element-i](https://github.com/nikhilpatel2004/DSA/tree/master/0496-next-greater-element-i) |
 | [1985-maximum-subarray-min-product](https://github.com/nikhilpatel2004/DSA/tree/master/1985-maximum-subarray-min-product) |
 | [2195-time-needed-to-buy-tickets](https://github.com/nikhilpatel2004/DSA/tree/master/2195-time-needed-to-buy-tickets) |
@@ -66,4 +67,8 @@
 |  |
 | ------- |
 | [1985-maximum-subarray-min-product](https://github.com/nikhilpatel2004/DSA/tree/master/1985-maximum-subarray-min-product) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/nikhilpatel2004/DSA/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
