@@ -85,6 +85,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/nikhilpatel2004/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0513-find-bottom-left-tree-value](https://github.com/nikhilpatel2004/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -97,6 +98,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/nikhilpatel2004/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0513-find-bottom-left-tree-value](https://github.com/nikhilpatel2004/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -110,6 +112,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/nikhilpatel2004/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0513-find-bottom-left-tree-value](https://github.com/nikhilpatel2004/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
@@ -119,6 +122,7 @@
 | [0101-symmetric-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/nikhilpatel2004/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0513-find-bottom-left-tree-value](https://github.com/nikhilpatel2004/DSA/tree/master/0513-find-bottom-left-tree-value) |
 ## String Matching
 |  |
 | ------- |
