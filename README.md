@@ -89,6 +89,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/nikhilpatel2004/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0572-subtree-of-another-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nikhilpatel2004/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/nikhilpatel2004/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0572-subtree-of-another-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nikhilpatel2004/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/nikhilpatel2004/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0572-subtree-of-another-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nikhilpatel2004/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -134,4 +137,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nikhilpatel2004/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
