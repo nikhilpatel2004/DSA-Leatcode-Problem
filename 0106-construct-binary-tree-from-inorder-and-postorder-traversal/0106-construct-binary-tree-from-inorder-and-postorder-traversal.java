@@ -1,54 +1,40 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 import java.util.*;
 
 class Solution {
     public TreeNode buildTree(int[] inorder, int[] postorder) {
         Map<Integer, Integer> map = new HashMap<>();
         
-        // Store inorder values in a HashMap for quick index lookup
+        // Build a map to store the index of each element in inorder
         for (int i = 0; i < inorder.length; i++) {
             map.put(inorder[i], i);
         }
-
-        // Start recursive tree construction
+        
+        // Start building the tree
         return buildTree(inorder, 0, inorder.length - 1, postorder, 0, postorder.length - 1, map);
     }
 
-    private TreeNode buildTree(int[] inorder, int inSt, int inEd, int[] postorder, int postSt, int postEd, Map<Integer, Integer> map) {
-        // Base Case: No elements left to construct the tree
-        if (inSt > inEd || postSt > postEd) {
+    private TreeNode buildTree(int[] inorder, int inSt, int inEd, int[] postorder, int poSt, int posEd, Map<Integer, Integer> map) {
+        // Base case: No elements to construct the tree
+        if (inSt > inEd || poSt > posEd) {
             return null;
         }
 
-        // The last element of postorder is always the root
-        TreeNode root = new TreeNode(postorder[postEd]);
+        // The last element in postorder is the root of the tree
+        TreeNode root = new TreeNode(postorder[posEd]);
 
         // Find the root index in inorder
-        int inRootIdx = map.get(root.val);
+        int pRootIdx = map.get(root.val);
 
-        // Number of elements in the left subtree
-        int numsLeft = inRootIdx - inSt;
+        // The number of nodes in the left subtree
+        int numsLeft = pRootIdx - inSt;
 
-        // Recursively build left subtree
-        root.left = buildTree(inorder, inSt, inRootIdx - 1, postorder, postSt, postSt + numsLeft - 1, map);
+        // Recursively build the left subtree
+        root.left = buildTree(inorder, inSt, pRootIdx - 1, postorder, poSt, poSt + numsLeft - 1, map);
 
-        // Recursively build right subtree
-        root.right = buildTree(inorder, inRootIdx + 1, inEd, postorder, postSt + numsLeft, postEd - 1, map);
+        // Recursively build the right subtree
+        root.right = buildTree(inorder, pRootIdx + 1, inEd, postorder, poSt + numsLeft, posEd - 1, map);
 
+        // Return the root of the subtree
         return root;
     }
 }
