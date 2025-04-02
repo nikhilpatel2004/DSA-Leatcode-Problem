@@ -95,6 +95,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/nikhilpatel2004/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nikhilpatel2004/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
@@ -110,6 +111,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/nikhilpatel2004/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nikhilpatel2004/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
@@ -128,6 +130,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/nikhilpatel2004/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nikhilpatel2004/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
@@ -137,6 +140,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/nikhilpatel2004/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/nikhilpatel2004/DSA/tree/master/0513-find-bottom-left-tree-value) |
+| [0662-maximum-width-of-binary-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 ## String Matching
 |  |
 | ------- |
