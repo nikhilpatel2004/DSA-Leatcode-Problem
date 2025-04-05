@@ -43,6 +43,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/nikhilpatel2004/DSA/tree/master/0134-gas-station) |
 | [0496-next-greater-element-i](https://github.com/nikhilpatel2004/DSA/tree/master/0496-next-greater-element-i) |
 | [1985-maximum-subarray-min-product](https://github.com/nikhilpatel2004/DSA/tree/master/1985-maximum-subarray-min-product) |
@@ -90,6 +91,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nikhilpatel2004/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -128,6 +130,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nikhilpatel2004/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -160,10 +163,12 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nikhilpatel2004/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
