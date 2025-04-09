@@ -26,6 +26,7 @@
 | [0225-implement-stack-using-queues](https://github.com/nikhilpatel2004/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nikhilpatel2004/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/nikhilpatel2004/DSA/tree/master/0496-next-greater-element-i) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1985-maximum-subarray-min-product](https://github.com/nikhilpatel2004/DSA/tree/master/1985-maximum-subarray-min-product) |
 ## Design
 |  |
@@ -47,6 +48,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/nikhilpatel2004/DSA/tree/master/0134-gas-station) |
 | [0496-next-greater-element-i](https://github.com/nikhilpatel2004/DSA/tree/master/0496-next-greater-element-i) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1985-maximum-subarray-min-product](https://github.com/nikhilpatel2004/DSA/tree/master/1985-maximum-subarray-min-product) |
 | [2195-time-needed-to-buy-tickets](https://github.com/nikhilpatel2004/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 ## Hash Table
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/nikhilpatel2004/DSA/tree/master/0496-next-greater-element-i) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1985-maximum-subarray-min-product](https://github.com/nikhilpatel2004/DSA/tree/master/1985-maximum-subarray-min-product) |
 ## String
 |  |
@@ -107,6 +110,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nikhilpatel2004/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
@@ -154,6 +158,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nikhilpatel2004/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
@@ -181,6 +186,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nikhilpatel2004/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nikhilpatel2004/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Divide and Conquer
 |  |
