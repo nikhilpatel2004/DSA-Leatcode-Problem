@@ -46,6 +46,7 @@
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/nikhilpatel2004/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/nikhilpatel2004/DSA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -60,6 +61,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/nikhilpatel2004/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0387-first-unique-character-in-a-string](https://github.com/nikhilpatel2004/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -230,4 +232,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilpatel2004/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/nikhilpatel2004/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
