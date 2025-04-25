@@ -61,6 +61,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilpatel2004/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/nikhilpatel2004/DSA/tree/master/0134-gas-station) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilpatel2004/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0287-find-the-duplicate-number](https://github.com/nikhilpatel2004/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/nikhilpatel2004/DSA/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nikhilpatel2004/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -210,6 +211,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/nikhilpatel2004/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nikhilpatel2004/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/nikhilpatel2004/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nikhilpatel2004/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Divide and Conquer
@@ -230,6 +232,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhilpatel2004/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/nikhilpatel2004/DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/nikhilpatel2004/DSA/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/nikhilpatel2004/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -255,4 +258,8 @@
 | [0053-maximum-subarray](https://github.com/nikhilpatel2004/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/nikhilpatel2004/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilpatel2004/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/nikhilpatel2004/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
