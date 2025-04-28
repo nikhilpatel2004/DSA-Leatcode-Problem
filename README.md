@@ -12,6 +12,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/nikhilpatel2004/DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/nikhilpatel2004/DSA/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/nikhilpatel2004/DSA/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -256,10 +257,15 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nikhilpatel2004/DSA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/nikhilpatel2004/DSA/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/nikhilpatel2004/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilpatel2004/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/nikhilpatel2004/DSA/tree/master/0287-find-the-duplicate-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/nikhilpatel2004/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
