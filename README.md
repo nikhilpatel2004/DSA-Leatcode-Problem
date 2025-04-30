@@ -88,6 +88,7 @@
 | [0020-valid-parentheses](https://github.com/nikhilpatel2004/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/nikhilpatel2004/DSA/tree/master/0125-valid-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0344-reverse-string](https://github.com/nikhilpatel2004/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/nikhilpatel2004/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -236,6 +237,7 @@
 | [0088-merge-sorted-array](https://github.com/nikhilpatel2004/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nikhilpatel2004/DSA/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/nikhilpatel2004/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/nikhilpatel2004/DSA/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
