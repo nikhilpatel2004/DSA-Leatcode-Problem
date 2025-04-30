@@ -85,6 +85,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nikhilpatel2004/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/nikhilpatel2004/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/nikhilpatel2004/DSA/tree/master/0125-valid-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -232,6 +233,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nikhilpatel2004/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhilpatel2004/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/nikhilpatel2004/DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/nikhilpatel2004/DSA/tree/master/0088-merge-sorted-array) |
@@ -260,6 +262,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nikhilpatel2004/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/nikhilpatel2004/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/nikhilpatel2004/DSA/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/nikhilpatel2004/DSA/tree/master/0118-pascals-triangle) |
