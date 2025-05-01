@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nikhilpatel2004/DSA/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nikhilpatel2004/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nikhilpatel2004/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nikhilpatel2004/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0206-reverse-linked-list](https://github.com/nikhilpatel2004/DSA/tree/master/0206-reverse-linked-list) |
@@ -236,6 +237,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nikhilpatel2004/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nikhilpatel2004/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhilpatel2004/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/nikhilpatel2004/DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/nikhilpatel2004/DSA/tree/master/0088-merge-sorted-array) |
