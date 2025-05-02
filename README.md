@@ -9,6 +9,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nikhilpatel2004/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nikhilpatel2004/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0206-reverse-linked-list](https://github.com/nikhilpatel2004/DSA/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/nikhilpatel2004/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
 | ------- |
