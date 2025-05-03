@@ -8,6 +8,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nikhilpatel2004/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nikhilpatel2004/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nikhilpatel2004/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0160-intersection-of-two-linked-lists](https://github.com/nikhilpatel2004/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/nikhilpatel2004/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nikhilpatel2004/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
@@ -78,6 +79,7 @@
 | [0073-set-matrix-zeroes](https://github.com/nikhilpatel2004/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0160-intersection-of-two-linked-lists](https://github.com/nikhilpatel2004/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/nikhilpatel2004/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/nikhilpatel2004/DSA/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
@@ -243,6 +245,7 @@
 | [0031-next-permutation](https://github.com/nikhilpatel2004/DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/nikhilpatel2004/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nikhilpatel2004/DSA/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/nikhilpatel2004/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/nikhilpatel2004/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/nikhilpatel2004/DSA/tree/master/0344-reverse-string) |
 ## Sorting
