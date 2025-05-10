@@ -58,6 +58,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhilpatel2004/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/nikhilpatel2004/DSA/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/nikhilpatel2004/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/nikhilpatel2004/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/nikhilpatel2004/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/nikhilpatel2004/DSA/tree/master/0056-merge-intervals) |
@@ -118,6 +119,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/nikhilpatel2004/DSA/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/nikhilpatel2004/DSA/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/nikhilpatel2004/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Tree
@@ -279,6 +281,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nikhilpatel2004/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/nikhilpatel2004/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/nikhilpatel2004/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/nikhilpatel2004/DSA/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/nikhilpatel2004/DSA/tree/master/0118-pascals-triangle) |
