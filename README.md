@@ -21,6 +21,7 @@
 | [0062-unique-paths](https://github.com/nikhilpatel2004/DSA/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/nikhilpatel2004/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nikhilpatel2004/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/nikhilpatel2004/DSA/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0206-reverse-linked-list](https://github.com/nikhilpatel2004/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/nikhilpatel2004/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nikhilpatel2004/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/nikhilpatel2004/DSA/tree/master/0342-power-of-four) |
 ## Stack
 |  |
 | ------- |
@@ -296,6 +298,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/nikhilpatel2004/DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/nikhilpatel2004/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/nikhilpatel2004/DSA/tree/master/0342-power-of-four) |
 ## Combinatorics
 |  |
 | ------- |
