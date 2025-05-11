@@ -19,12 +19,14 @@
 | [0002-add-two-numbers](https://github.com/nikhilpatel2004/DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/nikhilpatel2004/DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/nikhilpatel2004/DSA/tree/master/0062-unique-paths) |
+| [0231-power-of-two](https://github.com/nikhilpatel2004/DSA/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nikhilpatel2004/DSA/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/nikhilpatel2004/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/nikhilpatel2004/DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/nikhilpatel2004/DSA/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
@@ -290,6 +292,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/nikhilpatel2004/DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/nikhilpatel2004/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Combinatorics
 |  |
