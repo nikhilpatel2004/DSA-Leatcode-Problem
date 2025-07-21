@@ -73,6 +73,7 @@
 | [0047-permutations-ii](https://github.com/nikhilpatel2004/DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/nikhilpatel2004/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/nikhilpatel2004/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/nikhilpatel2004/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/nikhilpatel2004/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/nikhilpatel2004/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nikhilpatel2004/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/nikhilpatel2004/DSA/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/nikhilpatel2004/DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/nikhilpatel2004/DSA/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/nikhilpatel2004/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Tree
@@ -309,6 +311,7 @@
 | [0005-longest-palindromic-substring](https://github.com/nikhilpatel2004/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/nikhilpatel2004/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/nikhilpatel2004/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/nikhilpatel2004/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/nikhilpatel2004/DSA/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/nikhilpatel2004/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilpatel2004/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
