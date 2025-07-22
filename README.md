@@ -88,6 +88,7 @@
 | [0169-majority-element](https://github.com/nikhilpatel2004/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nikhilpatel2004/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilpatel2004/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/nikhilpatel2004/DSA/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/nikhilpatel2004/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/nikhilpatel2004/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/nikhilpatel2004/DSA/tree/master/0485-max-consecutive-ones) |
@@ -291,6 +292,7 @@
 | [0088-merge-sorted-array](https://github.com/nikhilpatel2004/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nikhilpatel2004/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilpatel2004/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/nikhilpatel2004/DSA/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/nikhilpatel2004/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Heap (Priority Queue)
 |  |
@@ -332,4 +334,8 @@
 | ------- |
 | [0046-permutations](https://github.com/nikhilpatel2004/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nikhilpatel2004/DSA/tree/master/0047-permutations-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/nikhilpatel2004/DSA/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
