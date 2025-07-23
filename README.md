@@ -24,6 +24,7 @@
 | [0231-power-of-two](https://github.com/nikhilpatel2004/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nikhilpatel2004/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nikhilpatel2004/DSA/tree/master/0342-power-of-four) |
+| [0380-insert-delete-getrandom-o1](https://github.com/nikhilpatel2004/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 ## Recursion
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [0225-implement-stack-using-queues](https://github.com/nikhilpatel2004/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nikhilpatel2004/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/nikhilpatel2004/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 ## Queue
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilpatel2004/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/nikhilpatel2004/DSA/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/nikhilpatel2004/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/nikhilpatel2004/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0435-non-overlapping-intervals](https://github.com/nikhilpatel2004/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/nikhilpatel2004/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/nikhilpatel2004/DSA/tree/master/0496-next-greater-element-i) |
@@ -107,6 +110,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/nikhilpatel2004/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhilpatel2004/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/nikhilpatel2004/DSA/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/nikhilpatel2004/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/nikhilpatel2004/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/nikhilpatel2004/DSA/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
@@ -338,4 +342,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/nikhilpatel2004/DSA/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/nikhilpatel2004/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
