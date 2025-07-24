@@ -90,6 +90,7 @@
 | [0169-majority-element](https://github.com/nikhilpatel2004/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nikhilpatel2004/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilpatel2004/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/nikhilpatel2004/DSA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/nikhilpatel2004/DSA/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/nikhilpatel2004/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikhilpatel2004/DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -140,6 +141,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/nikhilpatel2004/DSA/tree/master/0238-product-of-array-except-self) |
 | [1985-maximum-subarray-min-product](https://github.com/nikhilpatel2004/DSA/tree/master/1985-maximum-subarray-min-product) |
 ## Greedy
 |  |
