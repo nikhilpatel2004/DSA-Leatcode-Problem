@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nikhilpatel2004/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/nikhilpatel2004/DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nikhilpatel2004/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -70,6 +71,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhilpatel2004/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nikhilpatel2004/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/nikhilpatel2004/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/nikhilpatel2004/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/nikhilpatel2004/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/nikhilpatel2004/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nikhilpatel2004/DSA/tree/master/0047-permutations-ii) |
@@ -118,6 +120,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nikhilpatel2004/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/nikhilpatel2004/DSA/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1985-maximum-subarray-min-product](https://github.com/nikhilpatel2004/DSA/tree/master/1985-maximum-subarray-min-product) |
@@ -285,6 +288,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhilpatel2004/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nikhilpatel2004/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/nikhilpatel2004/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/nikhilpatel2004/DSA/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nikhilpatel2004/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nikhilpatel2004/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nikhilpatel2004/DSA/tree/master/0125-valid-palindrome) |
@@ -319,6 +323,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nikhilpatel2004/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/nikhilpatel2004/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/nikhilpatel2004/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/nikhilpatel2004/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nikhilpatel2004/DSA/tree/master/0055-jump-game) |
