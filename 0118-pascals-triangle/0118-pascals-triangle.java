@@ -1,40 +1,28 @@
+
+
+
+
 class Solution {
+    public long nCr(int n, int r) {
+        long res = 1;
+        for (int i = 0; i < r; i++) {
+            res = res * (n - i);
+            res = res / (i + 1);
+        }
+        return res;
+    }
+
     public List<List<Integer>> generate(int numRows) {
-        List<List<Integer>> result = new ArrayList<>();
+        List<List<Integer>> triangle = new ArrayList<>();
 
-        if(numRows ==0) return result;
-
-        List<Integer> firstRows = new ArrayList<>();
-        firstRows.add(1);     
-        result.add(firstRows);
-
-        if(numRows == 1) return result;
-
-        for(int i = 1;i<numRows;i++){  // run 4 time each roe from pascla tiem
-            List<Integer> prevRows = result.get(i-1);  //store prevrow
-
-            ArrayList<Integer> row = new ArrayList<>(); //new list
-            row.add(1);  // first new add 1
-
-            for(int j =0; j<i-1;j++){
-                row.add(prevRows.get(j) +prevRows.get(j+1));
+        for (int i = 0; i < numRows; i++) {
+            List<Integer> row = new ArrayList<>();
+            for (int j = 0; j <= i; j++) {
+                row.add((int) nCr(i, j)); // cast long to int
             }
-            row.add(1);
-
-            result.add(row);
-
+            triangle.add(row);
         }
 
-
-        return result;
+        return triangle;
     }
 }
-
-/*
-                         1 
-                    1          1
-                1         2           1
-            1       3            3            1
-
-
-*/
