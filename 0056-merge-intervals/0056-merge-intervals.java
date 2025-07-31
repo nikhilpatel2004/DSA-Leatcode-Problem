@@ -1,26 +1,24 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
-        if(intervals.length <=1) return intervals;
+        // Step 1: Sort intervals by starting time
+        Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
 
-       
-                Arrays.sort(intervals, Comparator.comparingInt(i -> i[0]));
+        List<int[]> merged = new ArrayList<>();
 
-        List<int []> res = new ArrayList<>();
-
-        int [] newIntervals = intervals[0];
-        res.add(newIntervals);
-
-
-        for(int [] interval :intervals){
-            if(interval[0] <= newIntervals[1]){
-                newIntervals[1]= Math.max(newIntervals[1] , interval[1]);
-            }else{
-                newIntervals= interval;
-                res.add(newIntervals);
+        // Step 2: Traverse and merge
+        for (int[] interval : intervals) {
+            // If merged list is empty OR no overlap
+            if (merged.isEmpty() || interval[0] > merged.get(merged.size() - 1)[1]) {
+                merged.add(interval);  // Add as-is
+            } else {
+                // Merge with the last interval
+                merged.get(merged.size() - 1)[1] = Math.max(
+                    merged.get(merged.size() - 1)[1], interval[1]
+                );
             }
         }
-        return res.toArray(new int[res.size()][]);
 
-        }
-    
+        // Convert list to array
+        return merged.toArray(new int[merged.size()][]);
+    }
 }
