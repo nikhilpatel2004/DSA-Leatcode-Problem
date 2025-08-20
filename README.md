@@ -23,6 +23,7 @@
 | [0060-permutation-sequence](https://github.com/nikhilpatel2004/DSA/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/nikhilpatel2004/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/nikhilpatel2004/DSA/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/nikhilpatel2004/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/nikhilpatel2004/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/nikhilpatel2004/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nikhilpatel2004/DSA/tree/master/0326-power-of-three) |
@@ -269,6 +270,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/nikhilpatel2004/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/nikhilpatel2004/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0099-recover-binary-search-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
