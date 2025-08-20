@@ -22,6 +22,7 @@
 | [0048-rotate-image](https://github.com/nikhilpatel2004/DSA/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/nikhilpatel2004/DSA/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/nikhilpatel2004/DSA/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/nikhilpatel2004/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/nikhilpatel2004/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/nikhilpatel2004/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nikhilpatel2004/DSA/tree/master/0326-power-of-three) |
@@ -81,6 +82,7 @@
 | [0053-maximum-subarray](https://github.com/nikhilpatel2004/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nikhilpatel2004/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/nikhilpatel2004/DSA/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/nikhilpatel2004/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/nikhilpatel2004/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nikhilpatel2004/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/nikhilpatel2004/DSA/tree/master/0075-sort-colors) |
