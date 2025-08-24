@@ -108,6 +108,7 @@
 | [0485-max-consecutive-ones](https://github.com/nikhilpatel2004/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/nikhilpatel2004/DSA/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/nikhilpatel2004/DSA/tree/master/0792-binary-search) |
+| [0898-transpose-matrix](https://github.com/nikhilpatel2004/DSA/tree/master/0898-transpose-matrix) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhilpatel2004/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nikhilpatel2004/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1985-maximum-subarray-min-product](https://github.com/nikhilpatel2004/DSA/tree/master/1985-maximum-subarray-min-product) |
@@ -153,6 +154,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/nikhilpatel2004/DSA/tree/master/0898-transpose-matrix) |
 | [2195-time-needed-to-buy-tickets](https://github.com/nikhilpatel2004/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 ## Prefix Sum
 |  |
@@ -336,6 +338,7 @@
 | [0048-rotate-image](https://github.com/nikhilpatel2004/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/nikhilpatel2004/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nikhilpatel2004/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0898-transpose-matrix](https://github.com/nikhilpatel2004/DSA/tree/master/0898-transpose-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
