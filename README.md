@@ -127,6 +127,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/nikhilpatel2004/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/nikhilpatel2004/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/nikhilpatel2004/DSA/tree/master/0496-next-greater-element-i) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/nikhilpatel2004/DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/nikhilpatel2004/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/nikhilpatel2004/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/nikhilpatel2004/DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## Counting
 |  |
 | ------- |
