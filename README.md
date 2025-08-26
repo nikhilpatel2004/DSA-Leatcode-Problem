@@ -124,6 +124,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/nikhilpatel2004/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhilpatel2004/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/nikhilpatel2004/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/nikhilpatel2004/DSA/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikhilpatel2004/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/nikhilpatel2004/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/nikhilpatel2004/DSA/tree/master/0496-next-greater-element-i) |
@@ -144,6 +145,7 @@
 | [0020-valid-parentheses](https://github.com/nikhilpatel2004/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/nikhilpatel2004/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/nikhilpatel2004/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/nikhilpatel2004/DSA/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhilpatel2004/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/nikhilpatel2004/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/nikhilpatel2004/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -324,6 +326,7 @@
 | [0088-merge-sorted-array](https://github.com/nikhilpatel2004/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nikhilpatel2004/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilpatel2004/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/nikhilpatel2004/DSA/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/nikhilpatel2004/DSA/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/nikhilpatel2004/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Heap (Priority Queue)
