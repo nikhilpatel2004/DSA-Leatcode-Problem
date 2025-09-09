@@ -115,6 +115,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nikhilpatel2004/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1985-maximum-subarray-min-product](https://github.com/nikhilpatel2004/DSA/tree/master/1985-maximum-subarray-min-product) |
 | [2195-time-needed-to-buy-tickets](https://github.com/nikhilpatel2004/DSA/tree/master/2195-time-needed-to-buy-tickets) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/nikhilpatel2004/DSA/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/nikhilpatel2004/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/nikhilpatel2004/DSA/tree/master/0496-next-greater-element-i) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/nikhilpatel2004/DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/nikhilpatel2004/DSA/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -157,6 +159,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/nikhilpatel2004/DSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/nikhilpatel2004/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/nikhilpatel2004/DSA/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 ## Simulation
 |  |
 | ------- |
