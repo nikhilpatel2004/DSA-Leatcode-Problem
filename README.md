@@ -30,6 +30,7 @@
 | [0326-power-of-three](https://github.com/nikhilpatel2004/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nikhilpatel2004/DSA/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikhilpatel2004/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [2965-find-missing-and-repeated-values](https://github.com/nikhilpatel2004/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [1985-maximum-subarray-min-product](https://github.com/nikhilpatel2004/DSA/tree/master/1985-maximum-subarray-min-product) |
 | [2195-time-needed-to-buy-tickets](https://github.com/nikhilpatel2004/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/nikhilpatel2004/DSA/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/nikhilpatel2004/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 | [0496-next-greater-element-i](https://github.com/nikhilpatel2004/DSA/tree/master/0496-next-greater-element-i) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/nikhilpatel2004/DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/nikhilpatel2004/DSA/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/nikhilpatel2004/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -349,6 +352,7 @@
 | [0073-set-matrix-zeroes](https://github.com/nikhilpatel2004/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nikhilpatel2004/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/nikhilpatel2004/DSA/tree/master/0898-transpose-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/nikhilpatel2004/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
